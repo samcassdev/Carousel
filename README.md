@@ -2,6 +2,8 @@
 
 This web application allows users to view each photo in the slideshow at once by clicking next and then back to start all over. In this web application, I decided to use the concept of a simple vegan menu with an assortment of different, creative dishes.
 
+### Link to project: https://samcarousel.netlify.com/
+
 ![veganmenu](https://user-images.githubusercontent.com/47072462/53622979-96718c80-3bc9-11e9-8391-8171405aac73.png)
 
 ## How It's Made
